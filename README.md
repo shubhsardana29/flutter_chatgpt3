@@ -1,16 +1,14 @@
 # flutter_chatgpt3
+![image](https://github.com/shubhsardana29/flutter_chatgpt3/assets/52607235/2ce2563a-b6fc-4df3-a100-eef4a2b9b609)
+A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 
-A new Flutter project.
+## Features
+- Natural language understanding
+- Human-like conversation
+- Customizable to fit your use-case
+- Lightweight, easy to integrate with other apps
+- Open-source
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Prerequisites
+- Flutter SDK
+- API key for OpenAI GPT-3
